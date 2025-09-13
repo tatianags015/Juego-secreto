@@ -1,4 +1,4 @@
-Título e imagen de portada;   <em> # Su título aquí </em>    <h1 align="center"> Juego de codigo secreto </h1>
+Título e imagen de portada;   <em> # bienvenido </em>    <h1 align="center"> Juego de codigo secreto </h1>
 Insignias;
 Índice;
 Descripción del Proyecto;
